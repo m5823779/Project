@@ -14,7 +14,11 @@ In this project, we present a learning-based mapless motion planner by taking th
   <img width="640" height="360" src="https://github.com/m5823779/Project/blob/main/Doc/DeepReinforcementLearning.gif">
 </p>
 
-> Keywords : Deep Reinforcement Learning (DRL), Deep Deterministic Policy Gradient (DDPG), Motion Planner, Navigation,  ROS, Tensorflow  , Python
+<blockquote>
+  <p>
+    Keywords : Deep Reinforcement Learning (DRL), Deep Deterministic Policy Gradient (DDPG), Motion Planner, Navigation,  ROS, Tensorflow  , Python
+  </p>
+</blockquote>
 
 <p align="center">
   <b> AR Virtual Display </b>
