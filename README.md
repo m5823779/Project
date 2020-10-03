@@ -1,3 +1,5 @@
+<html>
+<body>
 <h3 align="center">
   End to end motion planner using Deep Deterministic Policy Gradient (DDPG)
 </h3>
@@ -11,7 +13,7 @@ In this project, we present a learning-based mapless motion planner by taking th
 <p align="center">
   <img width="640" height="360" src="https://github.com/m5823779/Project/blob/main/Doc/DeepReinforcementLearning.gif">
 </p>
-<br>
+
 > Keywords : Deep Reinforcement Learning (DRL), Deep Deterministic Policy Gradient (DDPG), Motion Planner, Navigation,  ROS, Tensorflow  , Python
 
 <p align="center">
@@ -78,3 +80,5 @@ In recent years, more and more laptops with touch panels are constantly being in
 <br>
 > Keywords : Deep Learning, Convolutional Neural Networks, Semantic Segmentation, Background Subtraction, AutoEncoder, Encoder-Decoder, OpenCV, Tensorflow, Python
 <br>
+</body>
+</html>
