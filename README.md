@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:30px">
+<p align="center", style="font-size:100px">
   <b>End to end motion planner using Deep Deterministic Policy Gradient (DDPG)</b>
 </p>
 
