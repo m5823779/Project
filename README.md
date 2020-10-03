@@ -104,7 +104,6 @@
 <p>
   In recent years, more and more laptops with touch panels are constantly being invented. And we cannot do without smart devices in our lives. Such as smartphone and smartwatch. communication and data transmission between equipment and equipment are increasingly important. We came up with an idea, is to put your smart device on the touch panel. Using "segmentation" to detect where is the device and Identify the phone model. Then connect with it. In this way, we don’t have to go through a cumbersome connection process to connect your mobile phone or any smart device to our computer.
 </p>
-<br>
 <p align="center">
   <img width="640" height="360" src="https://github.com/m5823779/Project/blob/main/Doc/Segmentation.png">
 </p>
