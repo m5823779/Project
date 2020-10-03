@@ -1,5 +1,5 @@
 <h3 align="center">
-  <b> End to end motion planner using Deep Deterministic Policy Gradient (DDPG) <b>
+  End to end motion planner using Deep Deterministic Policy Gradient (DDPG)
 </h3>
 
 <pre>
