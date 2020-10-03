@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> End to end motion planner using Deep Deterministic Policy Gradient (DDPG) </h1>
+  <h2> End to end motion planner using Deep Deterministic Policy Gradient (DDPG) </h2>
 </p>
 <br>
 With the progress of technology, more and more service robots appear in our daily lives. The key technologies of service robots involve many fields. Including: mobile navigation, system control, mechanism modules, vision modules, voice modules, artificial intelligence, and other related technical fields. In this research we will focus on developing indoor robot navigation.
