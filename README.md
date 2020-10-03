@@ -5,28 +5,35 @@
 </h3>
 <p>
   With the progress of technology, more and more service robots appear in our daily lives. The key technologies of service robots involve many fields. Including: mobile navigation, system control, mechanism modules, vision modules, voice modules, artificial intelligence, and other related technical fields. In this research we will focus on developing indoor robot navigation.
-
+</p>
+<p>
 In this project, we present a learning-based mapless motion planner by taking the sparse laser single and the target position in the robot frame (relative distance and relative angles) as input and the continuous steering commands as output. This saves us from using traditional methods such as "SLAM" to have maps and can also do the navigation. The trained motion planner can also be directly applied in environments which it never seen before.
 </p>
+<br>
 <p align="center">
   <img width="640" height="360" src="https://github.com/m5823779/Project/blob/main/Doc/DeepReinforcementLearning.gif">
 </p>
+<br>
 <blockquote>
   <p>
     Keywords : Deep Reinforcement Learning (DRL), Deep Deterministic Policy Gradient (DDPG), Motion Planner, Navigation,  ROS, Tensorflow  , Python
   </p>
 </blockquote>
+<br>
 <p align="center">
   <b> AR Virtual Display </b>
 </p>
-<br> 
+<p> 
 The flourishing development of Augmented reality (AR) in recent years, more and more companies are beginning to develop AR devices and applications. Such as Microsoft's Hololens. However, most of the current AR applications be used for entertainment. Have you ever wondered if AR can increase our productivity? We came up with a new idea. Getting more screens through AR glasses. In this way, users don’t have to spend a lot of money buying lots of physical monitors. And all this is base on "Vuforia or Aruco". Attach target image on physical monitors to track its pose. Then draw the virtual screen in AR glass.
+</p>
 <br>
 <p align="center">
   <img width="640" height="360" src="https://github.com/m5823779/Project/blob/main/Doc/Vuforia.gif">
 </p>
 <br>
-> Keywords : AR, OpenCV, Aruco, Vuforia, Unity, C#, C++
+<blockquote>
+  Keywords : AR, OpenCV, Aruco, Vuforia, Unity, C#, C++
+</blockquote>
 <br>
 <p align="center">
   <b> Monitor Landmark Detection / Pose Estimation </b>
