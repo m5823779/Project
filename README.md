@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<!--> 1 </-->
+<!--1/-->
 <h3 align="center">
   End to end motion planner using Deep Deterministic Policy Gradient (DDPG)
 </h3>
@@ -23,7 +23,7 @@
 </blockquote>
 <br>
 
-<!--> 2 </-->
+<!--2/-->
 <h3 align="center">
   AR Virtual Display
 </h3>
@@ -40,7 +40,7 @@
 </blockquote>
 <br>
 
-<!--> 3 </-->
+<!--3/-->
 <h3 align="center">
   Monitor Landmark Detection / Pose Estimation
 </h3>
@@ -57,7 +57,7 @@
 </blockquote>
 <br>
 
-<!--> 4 </-->
+<!--4/-->
 <h3 align="center">
   Stereo (Side by Side) Image Generator from Single Image
 </h3>
@@ -77,7 +77,7 @@
 </blockquote>
 <br>
 
-<!--> 5 </-->
+<!--5/-->
 <h3 align="center">
   A Convolutional Neural Network for Real Time robot pose estimation by RGB Image
 </h3>
@@ -97,7 +97,7 @@
 </blockquote>
 <br>
 
-<!--> 6 </-->
+<!--6/-->
 <h3 align="center">
   Tiger Lake Touch Panel Phone Detection
 </h3>
